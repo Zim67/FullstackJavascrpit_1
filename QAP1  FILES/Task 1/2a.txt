@@ -1,0 +1,4 @@
+Chosen Global Objects:
+http: The HTTP module allows creating an HTTP server that can handle HTTP requests and responses.
+events: The Events module enables the implementation of the EventEmitter class for handling events.
+filesystem: The File System module facilitates interaction with the file system, allowing file operations.
